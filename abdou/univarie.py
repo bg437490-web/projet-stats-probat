@@ -1,0 +1,48 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Chargement des données
+df = pd.read_csv("../data/consommation_boissons.csv", sep=';')
+print(df.head())
+
+# Quelles sont les boissons les plus consommées ?
+print(df['boisson'].value_counts())
+# la boisson la plus consommée.
+boisson_max = df['boisson'].value_counts().idxmax()
+print("Boisson la plus consommée :", boisson_max)
+
+# Visualisation de la boisson la plus consommée
+plt.figure(figsize=(8, 6))
+df['boisson'].value_counts().plot(kind='bar', color='skyblue')
+plt.xlabel('Boisson')
+plt.ylabel('Nombre de consommations')
+plt.title('Distribution des consommations de boissons')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+# Quelle est la distribution des quantités consommées ?
+plt.figure(figsize=(8, 6))
+df['quantite'].plot(kind='hist', bins=5, color='lightcoral')
+plt.xlabel('Quantité consommée')
+plt.ylabel('Nombre de consommations')
+plt.title('Distribution des quantités consommées')
+plt.tight_layout()
+plt.show()
+
+#  Quel est le moment de la journée le plus fréquent ?
+moment_jour = df['moment_journee'].value_counts().idxmax()
+print("Moment de la journée le plus fréquent :", moment_jour)
+# visualisation du moment de la journée le plus fréquent
+plt.figure(figsize=(8, 6))
+df['moment_journee'].value_counts().plot(kind='bar', color='lightgreen')
+plt.xlabel('Moment de la journée')
+plt.ylabel('Nombre de consommations')
+plt.title('Distribution des moments de la journée')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+#  la consommation moyenne par étudiant ?
+consommation_moyenne = df.groupby('etudiant_id')['quantite'].sum().mean()
+print(f"Consommation moyenne par étudiant : {consommation_moyenne} verres")

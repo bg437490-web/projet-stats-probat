@@ -16,3 +16,7 @@ je viens de terminer l'analyse univariée de la consommation de boissons faite p
 3. J'ai créé un graphique à barres pour visualiser la consommation de chaque type de boisson.
 4. J'ai trouvé la distribution des quantités consommées en utilisant un histogramme.
 5. J'ai calculé la consommation moyenne par étudiant en regroupant les données par identifiant d'étudiant et en calculant la moyenne des quantités consommées.
+Je viens de terminer le fichier de denombrement. ce fichier contient les resultats suivants :
+-Combien de combinaisons possibles(boisson * moment de la journée) : 15
+-Combien de façons différentes un étudiant peut consommer 3 boissons dans une journée : 10
+-Profils possibles (âge, sexe, boisson, moment) : 240

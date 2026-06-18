@@ -11,7 +11,7 @@ print(df['boisson'].value_counts())
 boisson_max = df['boisson'].value_counts().idxmax()
 print("Boisson la plus consommée :", boisson_max)
 
-Visualisation de la boisson la plus consommée
+# Visualisation de la boisson la plus consommée
 plt.figure(figsize=(8, 6))
 df['boisson'].value_counts().plot(kind='bar', color='skyblue')
 plt.xlabel('Boisson')

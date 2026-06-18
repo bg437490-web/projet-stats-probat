@@ -42,3 +42,7 @@ plt.title('Distribution des moments de la journée')
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
+
+#  la consommation moyenne par étudiant ?
+consommation_moyenne = df.groupby('etudiant_id')['quantite'].sum().mean()
+print(f"Consommation moyenne par étudiant : {consommation_moyenne} verres")

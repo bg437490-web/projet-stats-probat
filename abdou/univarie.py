@@ -29,3 +29,16 @@ plt.ylabel('Nombre de consommations')
 plt.title('Distribution des quantités consommées')
 plt.tight_layout()
 plt.show()
+
+#  Quel est le moment de la journée le plus fréquent ?
+moment_jour = df['moment_journee'].value_counts().idxmax()
+print("Moment de la journée le plus fréquent :", moment_jour)
+# visualisation du moment de la journée le plus fréquent
+plt.figure(figsize=(8, 6))
+df['moment_journee'].value_counts().plot(kind='bar', color='lightgreen')
+plt.xlabel('Moment de la journée')
+plt.ylabel('Nombre de consommations')
+plt.title('Distribution des moments de la journée')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()

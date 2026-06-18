@@ -1,0 +1,101 @@
+etudiant_id;age;sexe;boisson;moment_journee;temperature;quantite;prix_unitaire
+ETU-2026-033;24;F;Thé (Ataya);midi;35.4;1;150
+ETU-2026-020;21;F;Soda (Gazelle);midi;29.3;1;400
+ETU-2026-035;26;M;Soda (Gazelle);midi;33.1;2;400
+ETU-2025-002;23;M;Café Touba;soir;26.5;2;100
+ETU-2025-016;23;M;Café Touba;matin;24.0;1;100
+ETU-2025-006;19;F;Eau de Sachet / Bouteille;matin;24.4;2;50
+ETU-2026-009;23;F;Thé (Ataya);soir;26.8;2;150
+ETU-2026-017;21;M;Soda (Gazelle);soir;26.9;1;400
+ETU-2026-020;21;F;Eau de Sachet / Bouteille;soir;25.6;2;50
+ETU-2026-034;26;F;Eau de Sachet / Bouteille;matin;21.1;1;50
+ETU-2025-022;24;F;Café Touba;matin;22.6;1;100
+ETU-2025-005;19;M;Café Touba;matin;20.3;1;100
+ETU-2025-022;24;F;Café Touba;matin;21.3;1;100
+ETU-2025-014;24;F;Soda (Gazelle);midi;34.1;3;400
+ETU-2026-037;23;M;Eau de Sachet / Bouteille;matin;23.5;1;50
+ETU-2025-013;20;F;Café Touba;matin;23.0;1;100
+ETU-2026-028;20;F;Eau de Sachet / Bouteille;midi;35.3;1;50
+ETU-2025-007;22;F;Café Touba;soir;25.9;1;100
+ETU-2025-016;23;M;Thé (Ataya);midi;32.6;1;150
+ETU-2026-009;23;F;Eau de Sachet / Bouteille;matin;21.3;1;50
+ETU-2025-005;19;M;Eau de Sachet / Bouteille;soir;23.4;1;50
+ETU-2025-006;19;F;Thé (Ataya);midi;31.5;1;150
+ETU-2026-031;20;F;Thé (Ataya);soir;26.6;2;150
+ETU-2026-025;26;F;Café Touba;soir;24.1;2;100
+ETU-2026-019;22;M;Eau de Sachet / Bouteille;soir;26.8;2;50
+ETU-2025-010;21;F;Thé (Ataya);soir;23.9;2;150
+ETU-2025-038;22;F;Soda (Gazelle);midi;34.4;1;400
+ETU-2025-004;21;F;Soda (Gazelle);soir;25.0;1;400
+ETU-2025-004;21;F;Soda (Gazelle);midi;35.2;1;400
+ETU-2026-039;20;F;Café Touba;matin;21.8;2;100
+ETU-2025-016;23;M;Soda (Gazelle);midi;33.3;2;400
+ETU-2025-038;22;F;Soda (Gazelle);soir;26.7;1;400
+ETU-2025-021;21;F;Thé (Ataya);soir;24.6;3;150
+ETU-2025-030;19;M;Jus de Bissap / Bouye;matin;20.0;2;250
+ETU-2026-037;23;M;Café Touba;matin;22.4;2;100
+ETU-2026-017;21;M;Thé (Ataya);soir;26.5;2;150
+ETU-2026-024;20;M;Jus de Bissap / Bouye;matin;22.0;2;250
+ETU-2026-020;21;F;Soda (Gazelle);midi;33.7;3;400
+ETU-2026-020;21;F;Café Touba;matin;21.2;1;100
+ETU-2025-036;19;F;Thé (Ataya);soir;24.1;2;150
+ETU-2025-022;24;F;Thé (Ataya);soir;25.0;3;150
+ETU-2025-004;21;F;Café Touba;soir;26.3;1;100
+ETU-2025-001;26;F;Jus de Bissap / Bouye;matin;22.9;1;250
+ETU-2025-011;19;M;Eau de Sachet / Bouteille;soir;25.8;1;50
+ETU-2025-008;23;M;Café Touba;matin;22.5;1;100
+ETU-2025-038;22;F;Soda (Gazelle);midi;31.7;1;400
+ETU-2026-020;21;F;Jus de Bissap / Bouye;matin;24.0;1;250
+ETU-2025-016;23;M;Café Touba;soir;26.1;2;100
+ETU-2025-040;18;F;Thé (Ataya);midi;35.3;1;150
+ETU-2025-012;26;M;Eau de Sachet / Bouteille;matin;20.8;1;50
+ETU-2025-027;23;M;Thé (Ataya);soir;23.6;2;150
+ETU-2026-025;26;F;Café Touba;soir;23.9;2;100
+ETU-2026-023;20;F;Jus de Bissap / Bouye;matin;21.0;2;250
+ETU-2025-013;20;F;Eau de Sachet / Bouteille;midi;30.4;1;50
+ETU-2025-018;23;F;Jus de Bissap / Bouye;midi;33.8;3;250
+ETU-2025-022;24;F;Café Touba;matin;23.9;1;100
+ETU-2025-012;26;M;Soda (Gazelle);soir;23.2;2;400
+ETU-2026-023;20;F;Jus de Bissap / Bouye;midi;33.2;3;250
+ETU-2025-008;23;M;Eau de Sachet / Bouteille;soir;23.8;1;50
+ETU-2026-028;20;F;Café Touba;matin;21.6;1;100
+ETU-2025-022;24;F;Soda (Gazelle);soir;25.7;1;400
+ETU-2026-020;21;F;Soda (Gazelle);soir;25.7;2;400
+ETU-2025-026;24;F;Jus de Bissap / Bouye;matin;20.9;2;250
+ETU-2026-025;26;F;Thé (Ataya);soir;24.6;2;150
+ETU-2026-020;21;F;Jus de Bissap / Bouye;matin;21.9;2;250
+ETU-2026-039;20;F;Jus de Bissap / Bouye;midi;31.8;3;250
+ETU-2025-014;24;F;Soda (Gazelle);soir;26.2;1;400
+ETU-2025-006;19;F;Jus de Bissap / Bouye;midi;28.8;1;250
+ETU-2026-020;21;F;Thé (Ataya);midi;29.3;1;150
+ETU-2026-003;19;M;Thé (Ataya);soir;25.4;2;150
+ETU-2025-030;19;M;Eau de Sachet / Bouteille;soir;25.3;2;50
+ETU-2025-032;19;F;Eau de Sachet / Bouteille;matin;20.7;2;50
+ETU-2025-001;26;F;Café Touba;soir;23.9;2;100
+ETU-2025-004;21;F;Soda (Gazelle);midi;35.8;1;400
+ETU-2025-030;19;M;Thé (Ataya);soir;25.7;3;150
+ETU-2025-029;19;M;Soda (Gazelle);soir;26.3;2;400
+ETU-2025-011;19;M;Eau de Sachet / Bouteille;midi;30.2;1;50
+ETU-2025-018;23;F;Soda (Gazelle);soir;25.5;2;400
+ETU-2025-029;19;M;Café Touba;soir;23.9;2;100
+ETU-2025-021;21;F;Soda (Gazelle);midi;29.2;1;400
+ETU-2026-025;26;F;Thé (Ataya);midi;28.5;1;150
+ETU-2025-027;23;M;Jus de Bissap / Bouye;midi;31.5;1;250
+ETU-2025-027;23;M;Eau de Sachet / Bouteille;soir;26.8;1;50
+ETU-2026-037;23;M;Eau de Sachet / Bouteille;midi;28.1;2;50
+ETU-2026-020;21;F;Eau de Sachet / Bouteille;midi;32.6;3;50
+ETU-2026-035;26;M;Soda (Gazelle);midi;32.1;2;400
+ETU-2026-028;20;F;Eau de Sachet / Bouteille;matin;21.7;2;50
+ETU-2025-026;24;F;Thé (Ataya);soir;26.7;2;150
+ETU-2025-026;24;F;Soda (Gazelle);midi;28.7;2;400
+ETU-2026-009;23;F;Eau de Sachet / Bouteille;matin;20.2;1;50
+ETU-2025-021;21;F;Thé (Ataya);soir;24.3;3;150
+ETU-2025-018;23;F;Eau de Sachet / Bouteille;midi;35.1;2;50
+ETU-2025-002;23;M;Soda (Gazelle);midi;36.5;2;400
+ETU-2025-015;26;M;Café Touba;matin;23.4;1;100
+ETU-2025-013;20;F;Café Touba;matin;21.1;1;100
+ETU-2025-008;23;M;Soda (Gazelle);midi;32.0;2;400
+ETU-2026-024;20;M;Thé (Ataya);midi;34.6;1;150
+ETU-2025-011;19;M;Jus de Bissap / Bouye;matin;22.6;1;250
+ETU-2026-037;23;M;Eau de Sachet / Bouteille;midi;36.0;1;50
+ETU-2025-005;19;M;Soda (Gazelle);midi;28.9;2;400
